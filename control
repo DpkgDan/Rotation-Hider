@@ -1,0 +1,9 @@
+Package: com.dpkgdan.rotationhider
+Name: Rotation Hider
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: A Mobile Substrate extension to hide the rotation indicator in the status bar.
+Maintainer: Dan Saba
+Author: Dan Saba
+Section: Tweaks
